@@ -88,7 +88,7 @@ window.onload = () =>{
                 {
                     name : 'Nalingi',
                     artist : 'Manu worldstar',
-                    image :'Nalingi.jpg',
+                    image :'NaLingi.jpg',
                     songUrl :'Manu_Worldstar_-_NaLingi.mp3',
                     duration :'03:13' 
                 },
@@ -136,10 +136,10 @@ window.onload = () =>{
 		{
                     name : 'Nalingi',
                     artist : 'Manu worldstar',
-                    image :'Nalingi.jpg',                                                      songUrl :'Manu_Worldstar_-_NaLingi.mp3',
+                    image :'NaLingi.jpg',                                                      songUrl :'Manu_Worldstar_-_NaLingi.mp3',
                     duration :'03:13'
                 },
-     		{                                                                              name : "Rent",                                                  		  artist : 'Manu worldstar',                                                 image :'Manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
+     		{                                                                              name : "Rent",                                                  		  artist : 'Manu worldstar',                                                 image :'manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
                 {
                     name : "You're the one",
                     artist : 'Elaine',
