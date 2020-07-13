@@ -55,7 +55,7 @@ window.onload = () =>{
 		    songUrl: 'AKA_-_Main_Ous_ft_YoungstaCPT.mp3',
 		    duration: '3:46'
                 },
-		{                                                                              name : "Rent",                                                             artist : 'Manu worldstar',                                                 image :'Manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
+		{                                                                              name : "Rent",                                                             artist : 'Manu worldstar',                                                 image :'manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
                 {
                     name : 'Shape of you',
                     artist : 'Ed sharen',
