@@ -63,7 +63,7 @@ window.onload = () =>{
                     songUrl :'Shape-of-You.mp3',
                     duration :'04:23' 
                 },
-
+		{                                                                              name : 'wine for me',                                                      artist : 'Popcaan',                                            	     image :'popcaan.jpg',                                                      songUrl :'Popcaan-Wine-For-Me.mp3',                                	   duration :'03:09'                                                      },
 		{
                     name : 'Know You',
                     artist : 'LadiPoe ft Simi',
