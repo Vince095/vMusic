@@ -99,6 +99,7 @@ window.onload = () =>{
                     image: 'kom.jpg',
                     songUrl:'Kommanda obbs - tlatlamacholo (audio).mp3',
                     duration: '03:50'                                                      },
+		{                                                                              name : 'Satan O Wele',                                                     artist : 'Reason ft Boity',                                                image :'ReB.jpg',                                                          songUrl :'Reason_-_Satan_O_Wele_ft_Boity.mp3',                             duration :'04:01'                                                      },
                 {
                     name : 'Jerusalema remix',
                     artist : 'Master KG ft Burna Boy X Nomcebo',
@@ -141,6 +142,7 @@ window.onload = () =>{
                     image :'NaLingi.jpg',                                                      songUrl :'Manu_Worldstar_-_NaLingi.mp3',
                     duration :'03:13'
                 },
+		{                                                                              name : 'Ke Star',                                                          artist : 'Focalistic ft Vigro Deep',                                       image :'FocaFoca.jpg',                                                     songUrl :'Focalistic_-_Ke_Star_ft_Vigro_Deep.mp3',                         duration :'07:13'                                                      },
      		{                                                                              name : "Rent",                                                  		  artist : 'Manu worldstar',                                                 image :'manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
                 {
                     name : "You're the one",
