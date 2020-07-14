@@ -63,6 +63,7 @@ window.onload = () =>{
                     songUrl :'Shape-of-You.mp3',
                     duration :'04:23' 
                 },
+
 		{
                     name : 'Know You',
                     artist : 'LadiPoe ft Simi',
@@ -70,6 +71,7 @@ window.onload = () =>{
                     songUrl :'LadiPoe - Know You ft Simi.mp3',
                     duration :'03:50'
                 },
+		{                                                                              name : 'Lerato Fela',                                                      artist : 'King Monada Madumane Kabza De Small Sha Sha Dj_Maphorisa',       image :'king.jpg',                                                         songUrl :'King_Monada_Madumane_Kabza_De_Small_Sha_Sha_Dj_Maphorisa_-_Lerato_Fela_Bamoza.com_.mp3',                                                    duration :'04:09'                                                      },
                 {
                     name : 'Sanana',
                     artist : 'Dj Sliqe feat.Kid-X,Cassper Nyovest',
@@ -136,10 +138,10 @@ window.onload = () =>{
 		{
                     name : 'Nalingi',
                     artist : 'Manu worldstar',
-                    image :'Nalingi.jpg',                                                      songUrl :'Manu_Worldstar_-_NaLingi.mp3',
+                    image :'NaLingi.jpg',                                                      songUrl :'Manu_Worldstar_-_NaLingi.mp3',
                     duration :'03:13'
                 },
-     		{                                                                              name : "Rent",                                                  		  artist : 'Manu worldstar',                                                 image :'Manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
+     		{                                                                              name : "Rent",                                                  		  artist : 'Manu worldstar',                                                 image :'manu.jpg',                                                         songUrl :"Manu_Worldstar_-_Rent.mp3",                                      duration :'03:05'                                                      },
                 {
                     name : "You're the one",
                     artist : 'Elaine',
