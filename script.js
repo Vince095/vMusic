@@ -13,6 +13,7 @@ window.onload = () =>{
                     songUrl :"unkle krack ft megahertz - ak'u ikhants'e.mp3",
                     duration :'03:12'
                 },
+		{                                                                              name : 'Past life',                                                        artist : 'Trevor Daniel ft Selena Gomez',                                  image :'Trevor.jpg',                                                       songUrl :'09 Past Life.m4a',                              	           duration :'03:01'                                                      },
 		{
                     name : 'Sponono',
                     artist : 'DJ_Maphorisa Kabza_De_Small ft WizKid Burna_Boy and Casper Nyovest',
@@ -47,7 +48,7 @@ window.onload = () =>{
                 },
 		{
                     name : 'Hold Up',                                              	       artist : 'DDG ft Queen Naija',
-                    image :'DIP.jpeg',
+                    image :'OIP.jpeg',
                     songUrl :'DDG_Ft_Queen_Naija_-_Hold_Up.mp3',
                     duration :'03:26'
                 },
@@ -132,7 +133,9 @@ window.onload = () =>{
             ]
 
             const animeSong = [
-                        
+                    
+		{                                                                             name : 'Falling',                                                          artist : 'Trevor Daniel',                                       	    image :'Trevor.jpg',                                                       songUrl :'10 Falling.m4a',        
+        	    duration :'02:39'                                                      },	    
                 {
                     name : 'Gum body',
                     artist : 'Burna boy ft Jorja Smith',
