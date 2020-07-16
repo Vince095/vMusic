@@ -41,7 +41,7 @@ window.onload = () =>{
                     duration :'04:35'
                 },
 		{
-                    name : 'Still be friends',                                                 artist : 'G-Eazy Ft Tory Lanez Tyga',
+                    name : 'Still be friends (Explicit)',                                      artist : 'G-Eazy Ft Tory Lanez Tyga',
                     image :'G-Eazy-Ft.-Tory-Lanez-Tyga-Still-Be-Friends.jpg',
                     songUrl :'G-Eazy_Ft_Tory_Lanez_Tyga_-_Still_Be_Friends.mp3',
                     duration :'03:34'
