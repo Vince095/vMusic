@@ -33,6 +33,8 @@ window.onload = () =>{
                     songUrl :'Kommanda Obbs - Ne Ke U Rata.mp3',
                     duration :'03:37' 
                 },
+		{                                                                              name : 'Know Your Worth Remix ' ,                                          artist : 'Khalid Ft Davido',                                               image :'Khalid.jpg',                                                       songUrl :'Khalid-Know-Your-Worth-Remix-Ft-Davido-Tems-Luvmp.com_.mp3',     duration :'03:11'                                                      },
+		{                                                                              name : 'Love Is Gone.',                                                    artist : 'G-Eazy ft Drew Love Jahmed',                                     image :'G.jpg',                                                            songUrl :'G-Eazy_ft_Drew_Love_Jahmed_-_Love_Is_Gone.mp3',                  duration :'04:33'                                                      },
 		{
                     name : 'Cherub',
                     artist : 'Zoochie Coke Dope',
